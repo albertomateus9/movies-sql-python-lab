@@ -1,0 +1,5 @@
+movie_id,title,genre,budget,revenue,vote_average
+1,River Data,Documentary,120000,350000,7.8
+2,Network Nights,Drama,200000,450000,7.1
+3,Forest Signals,Documentary,90000,180000,8.2
+4,Python City,Comedy,160000,390000,6.9

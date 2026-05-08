@@ -1,0 +1,11 @@
+[project]
+name = "movies-sql-python-lab"
+version = "0.1.0"
+description = "SQLite and Python lab for importing movie records and running SELECT, JOIN, and GROUP BY queries."
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Alberto Mateus P. da Gama" }]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
